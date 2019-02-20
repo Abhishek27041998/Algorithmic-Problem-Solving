@@ -1,0 +1,9 @@
+1) Kruskals Algorithm for Min spanning Tree
+      Implemented using Union find data structures
+      Used Adjacency list for representing output spanning tree
+      
+2) Dijkstra Algorithm for Single source shortest path
+      Implemented using Adjacency matrix representation
+      
+3) Prims Algorithm for Min Spanning Tree
+      Similar to Dijkstra Algo, but outputs a Min spanning tree
